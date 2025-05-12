@@ -1,7 +1,7 @@
 This is the code for populating the [arbitrary club spreadsheet](https://docs.google.com/spreadsheets/d/1ev4J2turGHjlQH452ngQaGqSRAwMYA47bglJZoPqfsg/edit?gid=0#gid=0).
 
 **Setup**:
-Download the files from the repository and place them in their own folder.
+Download the files from the repository and place them where you want to store them on your computer. (It's good practice to move something like this out of your downloads folder, for organization.)
 
 **How to use**:
 1. Go to the [tetris.com leaderboards](https://docs.google.com/spreadsheets/d/15s4LrzTQpX2lFVsRt_esvPGqveYKgVPmaqks38HzBDw/edit?gid=0#gid=0).
