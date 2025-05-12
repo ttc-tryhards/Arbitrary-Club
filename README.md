@@ -14,3 +14,4 @@ Download the files from the repository and place them where you want to store th
 8. Make sure you have the top left cell selected.
 9. Import the file "output.csv" (File -> Import -> Upload -> Browse -> \*select the file from your computer* -> Import Location = Replace data at selected cell, Detect Automatically -> Import Data)
 10. Repeat the same process for tab 3 of the spreadsheet (Tiers Leaderboard), making sure to select the top left cell and this time with the "tiersLeaderboard.csv" file.
+11. Update the "Date Leaderboards Last Updated" cell on tab 1 with today's date.
